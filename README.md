@@ -17,16 +17,16 @@ PostgreSQL · Power BI (Mixed / DirectQuery) · DAX · SQL
 ![Overview](Image/Overview.png)
 
 ### Sales Trends
-![Sales Trends](Image/Sales_Trends.png)
+![Sales Trends](Image/SalesTrends.png)
 
 ### Category & Product
-![Category and Product](Image/Category___Product.png)
+![Category and Product](Image/CategoryProduct.png)
 
 ### Customer Geography
-![Customer Geography](Image/Customer_Geography.png)
+![Customer Geography](Image/CustomerGeography.png)
 
 ### Delivery & Logistics
-![Delivery and Logistics](Image/Delivery___Logistic.png)
+![Delivery and Logistics](Image/DeliveryLogistics.png)
 
 ### Reviews
 ![Reviews](Image/Reviews.png)
@@ -35,10 +35,10 @@ PostgreSQL · Power BI (Mixed / DirectQuery) · DAX · SQL
 ![Payments](Image/Payments.png)
 
 ### Sellers
-![Sellers](Image/Sallers.png)
+![Sellers](Image/Sellers.png)
 
 ### Drill Through
-![Drill Through](Image/Drill_Through.png)
+![Drill Through](Image/DrillThrough.png)
 
 ## Repository Structure
 - `dashboard/` – Power BI report (.pbix)
