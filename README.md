@@ -20,13 +20,13 @@ PostgreSQL · Power BI (Mixed / DirectQuery) · DAX · SQL
 ![Sales Trends](Image/SalesTrends.png)
 
 ### Category & Product
-![Category and Product](Image/Category&Product.png)
+![Category and Product](Image/CategoryProduct.png)
 
 ### Customer Geography
 ![Customer Geography](Image/CustomerGeography.png)
 
 ### Delivery & Logistics
-![Delivery and Logistics](Image/Delivery&Logistics.png)
+![Delivery and Logistics](Image/DeliveryLogistics.png)
 
 ### Reviews
 ![Reviews](Image/Reviews.png)
