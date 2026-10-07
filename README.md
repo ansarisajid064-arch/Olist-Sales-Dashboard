@@ -60,5 +60,3 @@ Raw tables → BI views (`bi_dim_product`, `bi_fact_order`, `bi_fact_review_late
 ## Key Metrics
 Revenue, GMV, Orders, Customers, AOV, On-time %, Avg Rating, YoY %, Rolling 30D Revenue, Revenue per Seller
 
-## Note
-The report is connected to a local PostgreSQL database, so the `.pbix` will not refresh without your own copy of the data. The screenshots show the full dashboard.
